@@ -1,7 +1,7 @@
-### Hi, I'm Liz!
+### Liz Maciel Lopes
 
 
-🎓 Student of System and Digital Media at the UFC - Brasil
+🎓 Student of System and Digital Media at the UFC - Brasil, Ceara
 
 💻 Scholarship student in Data Science 
 
