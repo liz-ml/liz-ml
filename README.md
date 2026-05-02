@@ -3,7 +3,7 @@
 
 🎓 Student of System and Digital Media at the UFC - Brasil, Ceara
 
-💻 Scholarship student in Data Science 
+💻 TI Intern
 
 🔎 Member of Physical Computing Lab at UFC
 
