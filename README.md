@@ -1,9 +1,9 @@
 ### Liz Maciel Lopes
 
 
-🎓 Student of System and Digital Media at the UFC - Brasil, Ceara
+🎓 Systems and Digital Media student at UFC - Brasil, Ceara
 
-💻 TI Intern
+💻 IT Intern
 
 🔎 Member of Physical Computing Lab at UFC
 
@@ -20,15 +20,15 @@ _____
   width = "30px"
   style = "padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-                              
- <img 
+
+   <img 
   align="left"
-  alt = "JAVASCRIPT"
-  title = "JAVASCRIPT"
+  alt = "GOLANG"
+  title = "GOLANG"
   width = "30px"
   style = "padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+                              
   <img 
    align="left"
   alt = "C++"
@@ -45,6 +45,43 @@ _____
   width = "30px"
   style = "padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+   <img 
+  align="left"
+  alt = "DOCKER"
+  title = "DOCKER"
+  width = "30px"
+  style = "padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+   <img 
+  align="left"
+  alt = "AWS"
+  title = "AWS"
+  width = "30px"
+  style = "padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+
+   <img 
+  align="left"
+  alt = "AZURE"
+  title = "AZURE"
+  width = "30px"
+  style = "padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+
+   <img 
+  align="left"
+  alt = "AZURE"
+  title = "AZURE"
+  width = "30px"
+  style = "padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+          
+          
+
+ 
           
           
           
